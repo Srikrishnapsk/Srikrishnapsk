@@ -3,7 +3,7 @@
 Learning new technologies and curious about creating new things 
 - 🌱 I’m currently learning ...Linux
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Just mail me sripsk45@gmail.com or msg me on twitter - @Srikrishnapsk 
+- 📫 How to reach me ... Just mail me sripsk45@gmail.com or msg me on twitter
 
 <!---
 Srikrishnapsk/Srikrishnapsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
