@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srikrishnapsk
 - 👀 I’m interested in ... 
 Learning new technologies and curious about creating new things 
-- 🌱 I’m currently learning ... React JS
+- 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Just mail me sripsk45@gmail.com or msg me on twitter
 
